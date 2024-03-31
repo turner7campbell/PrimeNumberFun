@@ -11,6 +11,7 @@ namespace PrimeNumberFun
         public static Boolean SayHello()
         {
             Console.WriteLine("I am sentient.");
+            return true;
         }
     }
 }
