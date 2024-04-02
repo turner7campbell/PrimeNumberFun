@@ -9,7 +9,7 @@ namespace PrimeNumberFun
     internal class Fish
     {
         public Fish() {
-            Console.WriteLine("I am a new Fish object");
+            Console.WriteLine("I am a new Fish object being instantiated");
         }
     }
 }
