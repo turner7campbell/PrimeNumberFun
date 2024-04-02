@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Agarwand.cs" />
     <Compile Include="barbergn.cs" />
     <Compile Include="dyertm.cs" />
     <Compile Include="Fish.cs" />
