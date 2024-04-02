@@ -8,5 +8,7 @@ namespace PrimeNumberFun
 {
     internal class Fish
     {
+        public Fish() {
+        }
     }
 }
