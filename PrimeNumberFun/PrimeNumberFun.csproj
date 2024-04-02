@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Fish.cs" />
     <Compile Include="HelloWorld.cs" />
+    <Compile Include="hsukt.cs" />
     <Compile Include="PrimeNumbers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
