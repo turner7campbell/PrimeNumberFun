@@ -44,8 +44,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Agarwand.cs" />
+    <Compile Include="barbergn.cs" />
+    <Compile Include="dyertm.cs" />
     <Compile Include="Fish.cs" />
     <Compile Include="HelloWorld.cs" />
+    <Compile Include="hsukt.cs" />
+    <Compile Include="nicholdw.cs" />
     <Compile Include="PrimeNumbers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
